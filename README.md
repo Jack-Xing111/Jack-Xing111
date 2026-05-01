@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Jiawang Xing.
 - 👀 I’m interested in Software development.
-- 🌱 I’m currently learning master of software engineering.
 - 💞️ 
 - 📫 My email address is jiawangxing@gmail.com
 
